@@ -1,0 +1,113 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_5DF1B3E2_5103_38B4_419B_363E4013A12F.source = https://thevrcompany.in
+LinkBehaviour_8A29C6FA_9947_8194_41B8_7901D42F0BBF.source = https://thevrcompany.in
+LinkBehaviour_4585E340_510F_39F4_418A_EB9921CFA9B0.source = https://thevrcompany.in/
+
+## Media
+
+### Audio
+audiores_4F02AF09_5BA9_259A_41D3_DD7AA2C0A839.mp3Url = media/audio_4881386C_5BA9_6B9A_41D0_486B5188B4D6_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_4A7657D1_5BA5_1B67_41D1_78CBF87EED16.label = Amphitheatre
+panorama_319D0158_3C90_D6B5_41CB_0009C44EA092.label = Balcony 1100 Sqft
+panorama_DF6C3751_D239_34D8_41D0_4DA6C51376E2.label = Cafeteria
+panorama_DF0B6A3E_D239_DC48_41D9_64CB8E8362C9.label = Lobby
+panorama_1903CA4C_142E_4D17_41A1_2F148D9AF825.label = Office 1100 Sqft
+panorama_20FE0AF5_2D38_2608_41B0_B574706A1C4B.label = Office 700 Sqft
+panorama_9381C0D0_9CFF_D11E_41D0_40EA9FCF0D02.label = Youth Corner
+video_04BC242A_1455_C510_41B2_6C903ABB6F4E.label = silver impose
+
+### Video
+videolevel_8ACEEE75_9947_809C_41C0_1DD572A6D5DE.url = media/video_04BC242A_1455_C510_41B2_6C903ABB6F4E_en.mp4
+videolevel_8ACEEE75_9947_809C_41C0_1DD572A6D5DE.posterURL = media/video_04BC242A_1455_C510_41B2_6C903ABB6F4E_poster_en.jpg
+
+### Video Subtitles
+
+## Right Click Menu
+
+### Text
+PlayerMenuItem_FC7A1472_EC7E_929B_41D6_21A7A5E80287.label = The VR Company
+
+## Skin
+
+### Button
+Button_FC129A9A_EC7C_2AD4_41E5_ABF2B332E901.label = AERIAL VIEW
+Button_FC129A9A_EC7C_2AD4_41E5_ABF2B332E901_mobile.label = AERIAL VIEW
+Button_FC118A9A_EC7C_2AD4_41D8_A42845400DD0_mobile.label = AMENITIES
+Button_FC118A9A_EC7C_2AD4_41D8_A42845400DD0.label = AMENITIES
+Button_FC115A9B_EC7C_2AD4_41E6_CC1EAB9A5DB5_mobile.label = AMENITIES
+Button_FC115A9B_EC7C_2AD4_41E6_CC1EAB9A5DB5.label = AMENITIES
+Button_12D1301B_0B47_B919_419B_D8C97C52E424_mobile.label = Amphitheatre
+Button_12D1301B_0B47_B919_419B_D8C97C52E424.label = Amphitheatre
+Button_F8044D64_F76C_5E48_41EB_0E17A16DE7E5_mobile.label = BACK
+Button_F8044D64_F76C_5E48_41EB_0E17A16DE7E5.label = BACK
+Button_48432348_5A24_18C8_41D3_459F6381EBAC_mobile.label = BALCONY
+Button_48432348_5A24_18C8_41D3_459F6381EBAC.label = BALCONY
+Button_FC12BA9A_EC7C_2AD4_41E8_60BE982A73CC.label = CONTACT US
+Button_FC12BA9A_EC7C_2AD4_41E8_60BE982A73CC_mobile.label = CONTACT US
+Button_FC123A9A_EC7C_2AD4_41DF_065C4A072C9B.label = CORNER OFFICE
+Button_FC123A9A_EC7C_2AD4_41DF_065C4A072C9B_mobile.label = CORNER OFFICE
+Button_E5C6676D_F76C_4A58_41CE_ECE5C2D2F9BA_mobile.label = Cafeteria
+Button_E5C6676D_F76C_4A58_41CE_ECE5C2D2F9BA.label = Cafeteria
+Button_5DF1D3E2_5103_38B4_41C4_A1D695097B4B.label = E-Tour by The VR Company
+Button_5DF1D3E2_5103_38B4_41C4_A1D695097B4B_mobile.label = E-Tour by The VR Company
+Button_F8067D65_F76C_5E48_41B6_1B770BE56E28.label = Entrance Area
+Button_F8067D65_F76C_5E48_41B6_1B770BE56E28_mobile.label = Entrance Area
+Button_12C51E25_0B47_8928_417F_67CED24372D8_mobile.label = Outdoor Area
+Button_12C51E25_0B47_8928_417F_67CED24372D8.label = Outdoor Area
+Button_FC11BA9B_EC7C_2AD4_41E7_17C3EF806B2C_mobile.label = PLANS
+Button_FC11BA9B_EC7C_2AD4_41E7_17C3EF806B2C.label = PLANS
+Button_FC11DA9A_EC7C_2AD4_41D8_639CFF6F6091.label = SAMPLE OFFICE
+Button_FC11DA9A_EC7C_2AD4_41D8_639CFF6F6091_mobile.label = SAMPLE OFFICE
+Button_FC125A9A_EC7C_2AD4_41B6_0B7330A00A84.label = SITE PLAN
+Button_FC125A9A_EC7C_2AD4_41B6_0B7330A00A84_mobile.label = SITE PLAN
+Button_FC121A9A_EC7C_2AD4_41E2_B4B9D8F3F912_mobile.label = TESTIMONIALS
+Button_FC121A9A_EC7C_2AD4_41E2_B4B9D8F3F912.label = TESTIMONIALS
+Button_FC127A9A_EC7C_2AD4_41E5_04F87AFF3E83_mobile.label = VIDEOS
+Button_FC127A9A_EC7C_2AD4_41E5_04F87AFF3E83.label = VIDEOS
+Button_FC12FA9A_EC7C_2AD4_41ED_198EE45F544F_mobile.label = WINDOW VIEWS
+Button_FC12FA9A_EC7C_2AD4_41ED_198EE45F544F.label = WINDOW VIEWS
+
+### Image
+Image_4191C79E_517F_388C_41B9_2D9E7247E2F5.url = skin/Image_4191C79E_517F_388C_41B9_2D9E7247E2F5_en.png
+Image_4191C79E_517F_388C_41B9_2D9E7247E2F5_mobile.url = skin/Image_4191C79E_517F_388C_41B9_2D9E7247E2F5_mobile_en.png
+Image_5DE39DFF_5103_688C_41CF_F0037014612E.url = skin/Image_5DE39DFF_5103_688C_41CF_F0037014612E_en.png
+Image_5DE39DFF_5103_688C_41CF_F0037014612E_mobile.url = skin/Image_5DE39DFF_5103_688C_41CF_F0037014612E_mobile_en.png
+Image_97936087_9946_807C_41E2_4F6C33E49779.url = skin/Image_97936087_9946_807C_41E2_4F6C33E49779_en.jpg
+Image_97936087_9946_807C_41E2_4F6C33E49779_mobile.url = skin/Image_97936087_9946_807C_41E2_4F6C33E49779_mobile_en.jpg
+Image_FC11BA9A_EC7C_2AD4_41E8_2C67333E7154.url = skin/Image_FC11BA9A_EC7C_2AD4_41E8_2C67333E7154_en.png
+Image_FC11BA9A_EC7C_2AD4_41E8_2C67333E7154_mobile.url = skin/Image_FC11BA9A_EC7C_2AD4_41E8_2C67333E7154_mobile_en.png
+
+### Multiline Text
+HTMLText_FC1FBAA5_EC7C_2AFC_41E3_E8F2B5469B15.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_FC1FBAA5_EC7C_2AFC_41E3_E8F2B5469B15_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_FC183AA5_EC7C_2AFC_41D3_B11D74329514.toolTip = Fullscreen
+IconButton_FC183AA5_EC7C_2AFC_41D3_B11D74329514_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Silver
+
+## VR Menu
+
+### Text
+MenuItem_16E2B1D0_057F_65D8_4193_292373C7D57E.label = Amphitheatre
+MenuItem_16E371D0_057F_65D8_4148_C0C939734F80.label = Balcony 1100 Sqft
+MenuItem_16E281D0_057F_65D8_418F_404714F7FB67.label = Cafeteria
+MenuItem_16E341D0_057F_65D8_4184_B1B79B3B69D0.label = Lobby
+Menu_145C5F9A_057D_7E48_4187_236F4598E0FE.label = Menu
+MenuItem_16E291D0_057F_65D8_417E_F402367A3720.label = Office 1100 Sqft
+MenuItem_16E351D0_057F_65D8_4163_1EFEB3A7E448.label = Office 700 Sqft
+MenuItem_16E2A1D0_057F_65D8_418B_601B9744C628.label = Youth Corner
